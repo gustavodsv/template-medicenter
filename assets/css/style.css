@@ -361,3 +361,77 @@ footer .widget-title-text {
     font-size: 12px;
     margin-top: 30px;
 }
+
+@media (max-width:600px){
+    header {
+        height: auto;
+    }
+    .logo {
+        display: flex;
+        margin: auto;
+    }
+    .banner-title {
+        padding: 20px;
+    }
+    .banner-title h1 {
+        font-size: 55px;
+    }
+    .habber-title h2 {
+        font-size: 17px;
+    }
+    .banner-options {
+        flex-direction: column;
+    }
+    .banner-options .banner-title {
+        padding: 0px;
+    }
+    .container {
+        flex-direction: column;
+    }
+    #geral .left{
+        margin-top: 70px;
+        padding: 20px
+    }
+    
+    #geral .right {
+        padding: 20px;
+    }
+    #geral article {
+        margin-right: 0;
+    }
+    .footer-menu{
+        flex-direction: column;
+    }
+    .footer-area {
+        flex-direction: column;
+        padding-left: 20px;
+    }
+    .footer-copy {
+        display: flex;
+        justify-content: center;
+        margin: 10px 20px 0px;
+    }
+    header .container {
+        flex-direction: row;
+        margin: 20px;
+    }
+
+    .menu nav ul {
+        flex-direction: column;
+        display: none;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        background-color: #FFF;
+        margin-top: 40px;
+    }
+
+    .menuMobile {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+
+    
+}
