@@ -25,8 +25,8 @@ header {
     display: none;
     width: 40px;
     height: 30px;
-
 }
+
 .mm-line{
     height: 4px;
     background-color: #39aae1;
@@ -376,7 +376,7 @@ footer .widget-title-text {
     .banner-title h1 {
         font-size: 55px;
     }
-    .habber-title h2 {
+    .banner-title h2 {
         font-size: 17px;
     }
     .banner-options {
@@ -432,6 +432,7 @@ footer .widget-title-text {
         justify-content: space-between;
     }
 
-
-    
+    .oto {
+        display: flex;
+    }
 }
