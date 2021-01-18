@@ -1,6 +1,6 @@
 ## Projeto - Template Clone
 
-### Destop
+### Desktop
 ![desktop](https://github.com/gustavodsv/templateclone-medicenter/blob/main/assets/images/medi/alt/Desktop-600.jpg)
 
 ### Smartphone
